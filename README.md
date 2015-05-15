@@ -9,5 +9,11 @@ To start:
 
 `git pull`
 
+`npm install`
+
+`php composer.phar install`
+
+`webpack`
+
 Important:
 Add `192.168.56.101 goodcoffee.dev` to your /etc/hosts file

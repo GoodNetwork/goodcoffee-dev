@@ -1,0 +1,4 @@
+[submodule "goodcoffee"]
+	path = goodcoffee
+	url = https://github.com/GoodNetwork/goodcoffee.git
+	branch = master

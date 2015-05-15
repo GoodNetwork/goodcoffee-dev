@@ -5,6 +5,8 @@ To start:
 
 `git clone --recursive https://github.com/GoodNetwork/goodcoffee-dev.git`
 
+`cd goodcoffee-dev`
+
 `vagrant up`
 
 `cd goodcoffee`

@@ -11,6 +11,8 @@ To start:
 
 `cd goodcoffee`
 
+`git checkout master`
+
 `git pull`
 
 `npm install`

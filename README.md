@@ -3,7 +3,9 @@ Dev environment for the GoodCoffee app
 
 To start:
 `git clone --recursive https://github.com/GoodNetwork/goodcoffee-dev.git`
+
 `cd goodcoffee`
+
 `git pull`
 
 Important:
